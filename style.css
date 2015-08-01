@@ -1,0 +1,60 @@
+
+
+.jumbotron {
+    position: relative;
+    background: #000 url("http://www.btlnews.com/wp-content/uploads/2012/12/LR-IMG_8973.jpg") center center;
+    width: 100%;
+    height: 100%;
+    background-size: cover;
+    overflow: hidden;
+    color: #ccc;
+
+}
+
+h1 { padding-left: .5%;
+	 margin-top: -1%;
+}
+
+p { padding-left: .7%;
+}
+
+a.thumbnail {
+    background-color: #A0B396;
+}
+
+* {
+    margin: 0;
+}
+
+.wrapper {
+    min-height: 100%;
+    height: auto !important;
+    height: 100%;
+    margin: 0 auto -155px; /* the bottom margin is the negative value of the footer's height */
+}
+.footer, .push {
+   height: 42px;
+   background-color: #ccc;
+}
+
+p#copy {
+    padding: 1% 1% 1% 8%;
+}
+
+.logo {
+    margin-bottom: -6%;
+}
+
+img {
+    padding: 1% 1% 7% 1%;
+}
+
+body {
+	background-color: #eee;
+}
+
+.about_us {
+    font-size: medium;
+    margin-bottom: 2%;
+}
+	
